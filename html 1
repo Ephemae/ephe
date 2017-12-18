@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="eng">
+
+<head>
+  <title>HTML 5 i CSS3</title>
+</head>
+
+<body style="background-color:#cccccc;">
+<div style="text-align:center;"><h1><b>HTML5 i CSS3</b></h1></div><br>
+
+<p1><div style="background-color:#8e8e8e;text-align:left;font-size:45px;text-transform:uppercase;height:50px;font-family:arial;">
+<font color="#ffffff"><b>HTML 5</b></font></div></p1>
+<p2><div style="text-align:center;width:500px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet vestibulum risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer placerat vehicula nibh. Sed urna diam, bibendum vel imperdiet ultricies, placerat at nulla. Morbi et velit ultrices, faucibus odio id, aliquam ipsum. Donec arcu mi, eleifend ultricies sapien vel, fermentum fringilla ipsum. Fusce vulputate rutrum sapien venenatis tempor. Donec lobortis ante eu massa auctor convallis. Maecenas nibh odio, tincidunt id justo vel, vehicula lobortis ex.
+
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse euismod, sem aliquam convallis iaculis, nulla tortor dictum odio, non venenatis libero elit eu risus. Vivamus vel condimentum justo, et vulputate augue. Suspendisse condimentum erat felis. Cras lectus nunc, viverra quis malesuada a, venenatis vel justo. Nullam felis neque, venenatis sed elit ac, aliquam placerat est. Pellentesque vel mi lobortis, lobortis enim a, rhoncus neque. Phasellus sed sem id felis ultrices pulvinar eu iaculis tellus. Nulla auctor neque non odio tempor, sollicitudin lacinia enim condimentum. Vivamus a feugiat sapien. Phasellus fringilla sit amet est quis scelerisque. Mauris sed nulla a urna aliquet vulputate eget eu nisi.
+ condimentum laoreet.</div></p2>
+
+</body>
+</html>
